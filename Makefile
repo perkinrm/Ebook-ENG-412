@@ -2,7 +2,7 @@ BUILD = build
 BOOKNAME = fieldguide
 TITLE = title.txt
 METADATA = metadata.xml
-CHAPTERS = ch01.md ch02.md ch03.md ch04.md ch05.md ch06.md
+CHAPTERS = ch01.md ch02.md ch03.md ch04.md ch05.md ch06.md ch07.md
 TOC = --toc --toc-depth=2
 COVER_IMAGE = img/cover.png
 LATEX_CLASS = report
