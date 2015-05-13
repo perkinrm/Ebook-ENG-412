@@ -37,3 +37,12 @@ div.bio {
 	background-color: #D4B2FF;
 	padding: 5% 0;
 }
+
+.icons img {
+	display: inline !important;
+	width: 40px;
+}
+
+p.caption {
+	display: none !important;
+}
